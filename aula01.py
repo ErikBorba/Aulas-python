@@ -1,0 +1,5 @@
+print("olá mundo")
+print("teste")
+print("teste02")
+print("teste03")
+print("teste04")
